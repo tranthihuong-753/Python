@@ -1,0 +1,11 @@
+ĐỀ TÀI: Xây dựng mô hình train và test trên tập dữ liệu CIFAR-10
+
+1. Tải dữ liệu 
+    1.1 Tạo folder data để lưu trữ x_train, y_train, x_test, y_test 
+    1.2 Tạo file save_cifar_10.py để tải và lưu trữ dữ liệu từ internet vào folder data
+    1.3 Giảm lượng dữ liệu trong Dataset CIFIR-10 
+        - Tạo file down_setdata.py 
+
+    
+        
+

@@ -1,0 +1,22 @@
+Hàm tích chập
+
+1. Học về hàm tích chập qua code python 
+Link : https://techmaster.vn/posts/35474/convolution-tich-chap-giai-thich-bang-code-thuc-te
+- Trong HamTichChap.py gồm các method:
+    1. convolve_nest_loop() Hàm chỉ dùng for dơn thuần 
+          [[0. 0. 0. 0. 0.]
+          [0. 5. 1. 3. 0.]
+          [0. 2. 3. 3. 0.]
+          [0. 2. 2. 5. 0.]
+          [0. 0. 0. 0. 0.]]
+    2. convolve_np() Hàm sử dụng numpy 
+          [[5. 1. 3. 0. 0.]
+          [2. 3. 3. 0. 0.]
+          [2. 2. 5. 0. 0.]
+          [0. 0. 0. 0. 0.]
+          [0. 0. 0. 0. 0.]]
+    3. convolve_np2() Hàm sử dụng numpy + Bỏ viền thừa 0 ở đầu ra 
+          [[5. 1. 3.]
+          [2. 3. 3.]
+          [2. 2. 5.]]
+    4. 

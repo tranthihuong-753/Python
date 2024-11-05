@@ -1,0 +1,4 @@
+Đề tài : Phân loại chữ số viết tay 
+Tải tập từ diệu MNIST bằng cách chạy lệnh "pip install python-mnist" trong terminal
+Xem dữ liệu trong file save_mnist.py 
+
